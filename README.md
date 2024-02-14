@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Sridhar
 
+I started coding in Javascript from last one year.
 <!--
 **sridhar-geek/sridhar-geek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
